@@ -1,0 +1,2 @@
+# kafkaschemaregistry
+Examples of kafkaschemaregistry
